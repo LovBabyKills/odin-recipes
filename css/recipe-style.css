@@ -1,0 +1,25 @@
+h1.title{
+    color: blue;
+}
+
+.title{
+    color: red;
+}
+
+.descrizione {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-weight: bold;
+}
+
+.prova {
+    color: green;
+    font-weight: lighter;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}
+

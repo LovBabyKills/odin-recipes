@@ -1,0 +1,22 @@
+h1 {
+    background-color: red;
+    color: blue;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.ricetta {
+    background-color: bisque;
+    font-size: 30px;
+    text-align: center;
+    color: aqua;
+}
+
+.ricetta#carbonara{
+    color: black;
+}
+
+.ricetta#coquito{
+    color: blue ;
+}
