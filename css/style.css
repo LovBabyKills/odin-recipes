@@ -1,22 +1,69 @@
-h1 {
-    background-color: red;
-    color: blue;
+* {
+    background-color: bisque;
+}
+
+#titolo  {
+    background-color: rgb(119, 174, 211);
+    color: rgb(221, 172, 217);
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+
+.uno {
+    background-color: rgb(119, 174, 211);
+    font-weight: bold;
+}
+
+.due {
+    background-color: rgb(119, 174, 211);
+    font-style: italic;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 60px auto;
+}
+
+.recipes {
+    
+    display: block;
+    padding: 10px;
+    background-color: rgb(119, 174, 211);
+    text-align: center;
+    margin: 10px auto;
+    margin-bottom: 60px;
+    
+    width: 600px;
+   
 }
 
 .ricetta {
-    background-color: bisque;
+    padding: 10px;
+    background-color: rgb(119, 174, 211);
     font-size: 30px;
     text-align: center;
-    color: aqua;
+    color: rgb(221, 172, 217);
+   
+    font-weight: 600;
+    margin: 10px 20px;
+    display: inline-block;
 }
 
-.ricetta#carbonara{
-    color: black;
+.testo {
+    display: block;
+    margin: 10px auto;
+    color: rgb(119, 174, 211);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    width: 600px;
+    
 }
 
-.ricetta#coquito{
-    color: blue ;
-}
+
